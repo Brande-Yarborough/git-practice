@@ -1,0 +1,62 @@
+#top-left-x {
+  
+}
+#top-left-o {
+    
+}
+
+#top-mid-x {
+    display: none;
+} 
+
+#top-mid-o {
+    display: none;
+}
+
+#top-right-x{
+    display: none;
+} 
+#top-right-o{
+    display: none;
+}
+
+#left-mid-x {
+    display: none;
+}
+#left-mid-o {
+    display: none;
+}
+#mid-mid-x {
+    display: none;
+}
+#mid-mid-o {
+    display: none;
+}
+
+#right-mid-x{
+    display: none;
+}
+#right-mid-o{
+    display: none;
+}
+#bot-left-x{
+    display: none;
+}
+#bot-left-o{
+    display: none;
+}
+#bot-mid-x{
+    display: none;
+}
+
+#bot-mid-o {
+    display: none;
+
+}
+
+#bot-right-x{
+    display: none;
+}
+#bot-right-o{
+    display: none;
+}
